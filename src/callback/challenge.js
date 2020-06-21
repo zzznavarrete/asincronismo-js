@@ -21,6 +21,7 @@ function fetchData(url_api, callback){
     xhttp.send();
 }
 
+// Callbacks
 // En esta función vamos a buscar la siguiente información a la API
 // 1. Cantidad de personajes
 // 2. Nombre del primer personaje en el array retornado en la primera petición
